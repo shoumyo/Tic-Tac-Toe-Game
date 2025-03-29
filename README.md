@@ -1,6 +1,8 @@
 # Tic-Tac-Toe Game
 <a href="https://shoumyo.github.io/Tic-Tac-Toe-Game/">Click here to play</a>
 <br>
+<h4>Use your brain to win</h4>
+<br>
 <br>
 <p>This is a game which can play in any age.This is fun to play.It is also very easy to play.To win you have to apply your thinking.</p>
 <br>
